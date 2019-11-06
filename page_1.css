@@ -1,0 +1,38 @@
+body{
+    background-image:url(https://www.jakpost.travel/wimages/large/15-151383_cool-sky-night-falling-star-wallpaper-perfect-for.jpg);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    color:whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    font-size: 75px;
+
+}
+
+/* .img1{
+    padding-right: 50px;
+    margin-bottom:400px;
+    align-content: center;
+
+} */
+
+.a{
+    border: 10px;
+    border-radius: 50%;
+}
+
+.b{
+    border: 10px;
+    border-radius: 50%;
+}
+
+.c{
+    border: 10px;
+    border-radius: 50%;
+}
